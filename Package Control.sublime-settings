@@ -15,5 +15,6 @@
     "SublimeLinter",
     "SublimeLinter-rubocop",
     "BracketHighlighter"
-  ]
+  ],
+  "bootstrapped": true,
 }
